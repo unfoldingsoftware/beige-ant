@@ -13,7 +13,7 @@ params:
   header:
     has_nav: true
     logo_img: /images/logo-white-transparent-small.png
-    title: Exto
+    title: Maria Riggs - Make Artistry
 disableKinds:
   - RSS
   - taxonomy
