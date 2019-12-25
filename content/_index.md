@@ -24,12 +24,12 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla tortor at, pulvinar orci.
-        title: Service Title
+        title: Makeup
       - content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus. Vivamus rhoncus mattis varius. 
-        title: Service Title
+        title: Piercing
       - content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
@@ -39,12 +39,12 @@ sections:
           justo, sit amet condimentum lorem nibh vel quam. Duis consectetur
           lorem ipsum, non efficitur urna viverra et.
         title: Service title
-    subtitle: An optional subtitle of the section
-    title: What We Do
+    subtitle: ''
+    title: What I Do
     type: servicesblock
   - component: testimonials_block.html
     section_id: testimonials
-    subtitle: An optional subtitle of the section
+    subtitle: ''
     testimonialslist:
       - author: John Doe
         avatar: images/john_doe.jpg
@@ -61,7 +61,7 @@ sections:
     type: testimonialsblock
   - component: contact_block.html
     section_id: contact
-    subtitle: An optional subtitle of the section
+    subtitle: ''
     title: Contact Us
     type: contactblock
 menu:
