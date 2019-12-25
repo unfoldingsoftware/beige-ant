@@ -2,11 +2,11 @@
 title: Home
 sections:
   - component: hero_block.html
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: 'Hello, my name is Maria. I am a makeup-artist and a professional piercer.'
     section_id: hero
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
+    title: >-
+      providing on-site, creative makeup services in Indianapolis, IN and the
+      surrounding areas
     type: heroblock
   - component: portfolio_block.html
     layout_style: mosaic
