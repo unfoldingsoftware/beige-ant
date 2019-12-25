@@ -62,7 +62,7 @@ sections:
   - component: contact_block.html
     section_id: contact
     subtitle: ''
-    title: Contact Us
+    title: Get in Touch
     type: contactblock
 menu:
   main:
