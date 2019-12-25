@@ -5,7 +5,7 @@ sections:
     content: 'Hello, my name is Maria. I am a makeup-artist and a professional piercer.'
     section_id: hero
     title: >-
-      providing on-site, creative makeup services in Indianapolis, IN and the
+      providing on-site, creative makeup services in Muncie, IN and the
       surrounding areas
     type: heroblock
   - component: portfolio_block.html
